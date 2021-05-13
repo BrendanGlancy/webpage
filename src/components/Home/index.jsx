@@ -1,5 +1,5 @@
-import { Link } from "react-router-dom"
-import "./style.css"
+import { Link } from "react-router-dom";
+import "./style.css";
 
 const Home = () =>  {
     return (
@@ -10,7 +10,7 @@ const Home = () =>  {
                     <p>I'm Brendan.</p>
                     <p>A Computer Science Student at KSU</p>
                 </h1>
-                <Link to="about">
+                <Link to="/about">
                     <button>More Info</button>
     
                 </Link>
