@@ -8,15 +8,13 @@ const About = () => {
              <p>
                  I'm currently working at the <b>Canton Regional Chamber of Commerce</b>,
                  as an Information Technology professional and web developer. Currently 
-                 looking to start contract work as a web developer. Contact me to build your 
+                 looking for contract work as a web developer. Contact me to build your 
                  website.
 
              </p>
              <br/>
              <p>
-                 Problem and puzzle solver, I got my start in algorithms speed cubing
-                 in elementry school. Recently I've starting participating in competitive
-                 programming. Check out my profile and badges on 
+                 Problem and puzzle solver, I got my start in algorithms speedcubing in elementary school. Recently I've started participating in competitive programming. Check out my profile and badges on
                  <a href="https://www.hackerrank.com/Bglance68" target="_blank" rel="noreferrer">
                  <b> HackerRank.</b> </a> 
                  I also have an interest in CyberSecurity 
@@ -26,9 +24,7 @@ const About = () => {
             </p>
              <br/>
             <p>
-                Interest in everything from the frontend spectrum to Machine learning and High
-                Frequency Trading Algorithms. Looking to work with ambitious people on 
-                ambitious projects.
+Interest in everything from the FrontEnd spectrum to Machine Learning and High-Frequency Trading Algorithms. Looking to work with ambitious people on ambitious projects.
             </p>
 
              <br/>

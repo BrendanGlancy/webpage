@@ -5,6 +5,7 @@ import Footer from './components/Footer';
 import About from './components/About';
 import NavBar from './components/NavBar';
 import Skills from './components/Skills';
+import ParticlesBg from 'particles-bg';
 import Works from './components/Works';
 import Contact from './components/Contact';
 
@@ -14,6 +15,7 @@ function App() {
         
       <div className="app">
         <NavBar />
+        <ParticlesBg type="circle" bg={true} />
       <Switch>
         <Route exact path="/webpage/" component={Home}/>  
         <Route exact path="/about" component={About}/>
