@@ -29,6 +29,22 @@
   font-family: "Righteous", cursive;
 }
 
+.title a {
+  text-decoration: none;
+  color: #12294B;
+  
+}
+
+.title img {
+  width: 40px;
+  margin-left: 10px;
+  height: 100%;
+}
+
+#gold {
+  color: #86763F;
+}
+
 .home .person {
   width: 100%;
   margin-top: 20px;

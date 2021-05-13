@@ -9,12 +9,15 @@ const Skills = () => {
                     <strong>Languages:</strong>
                     <li>Java</li>
                     <li>Python</li>
-                    <li>JavaScript</li>
-                    <li>HTML5</li>
+                    <li>JavaScript<img src={`${process.env.PUBLIC_URL}/JS.png`}        
+                    alt={`${process.env.PUBLIC_URL}/logo192.png`}/></li>
+                    <li>HTML5<img src={`${process.env.PUBLIC_URL}/CSS_HTML.png`}
+                    alt={`${process.env.PUBLIC_URL}/logo192.png`}/></li>
                     <li>CSS3</li>
                     <li>C++</li>
                     <li>C#</li>
-                    <li>PHP</li>
+                    <li>PHP<img src={`${process.env.PUBLIC_URL}/php.png`} 
+                    alt={`${process.env.PUBLIC_URL}/logo192.png`}/></li>
                     <li>SQL</li>
                 </div>
                 <div>

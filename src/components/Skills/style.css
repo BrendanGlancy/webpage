@@ -27,6 +27,12 @@
   margin-bottom: 10px;
 }
 
+.content li img {
+  width: 35px;
+  height: 100%;
+  margin-left: 10px;
+}
+
 @media (min-width: 800px) {
   .content {
     grid-template-columns: 1fr 1fr 1fr;
