@@ -24,20 +24,8 @@ const Skills = () => {
                     <strong>Libraries:</strong>
                     <li>React.js</li>
                     <li>Vue.js</li>
-                    <li>PyTorch</li>
-                    <li>MatPlotLib</li>
-                    <li>Numpy</li>
-                </div>
-                <div>
-                    <strong>Tools & Frameworks</strong>
-                    <li>Git & GitHub</li>
-                    <li>JavaServer Pages (JSP)</li>
+                    <li>Three.js</li>
                     <li>Django</li>
-                    <li>Eclipse</li>
-                    <li>Vim</li>
-                    <li>VS Code</li>
-                    <li>Spring Framework</li>
-                    <li>Jquery</li>
                 </div>
                 <div>
                     <strong>Unit Testing / Other</strong>
